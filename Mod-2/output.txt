@@ -1,9 +1,2 @@
-Size: 0
-Capacity: 0
-Max_size: 4611686018427387903
-After inserting elements:
-Size: 2
-Capacity: 2
-After clear:
-Size: 0
-Capacity: 2
+
+10 20 50000 30 40 50 
