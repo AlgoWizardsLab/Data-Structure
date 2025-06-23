@@ -1,0 +1,1 @@
+{"name":"Local: Binary_search","url":"d:\\Batch-7\\Data Structure\\Mod_3\\Binary_search.cpp","tests":[{"id":1750688726450,"input":"5\n10 20 30 50 80\n10","output":"Found"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"d:\\Batch-7\\Data Structure\\Mod_3\\Binary_search.cpp","group":"local","local":true}
